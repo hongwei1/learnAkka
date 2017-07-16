@@ -1,0 +1,16 @@
+*.class
+*.db
+.DS_Store
+*.scala.orig
+*.log
+.gitignore
+.idea
+.settings
+.classpath
+.project
+.cache
+target
+src/main/resources/
+src/test/resources/
+*.iml
+src/main/resources/log4j.properties
