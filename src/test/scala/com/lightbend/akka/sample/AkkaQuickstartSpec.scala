@@ -10,7 +10,7 @@ import Printer._
 
 //#test-classes
 class AkkaQuickstartSpec(_system: ActorSystem)
-  extends TestKit(_system)
+  extends TestKit(_system) //only this is from Akka
   with Matchers
   with FlatSpecLike
   with BeforeAndAfterAll {
