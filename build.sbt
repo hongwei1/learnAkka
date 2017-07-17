@@ -1,4 +1,4 @@
-name := "akka-quickstart-scala"
+name := "LearnAkka"
 
 version := "1.0"
 
