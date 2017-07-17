@@ -14,7 +14,6 @@ class AkkaQuickstartSpec(_system: ActorSystem)
   with Matchers
   with FlatSpecLike
   with BeforeAndAfterAll {
-  //#test-classes
 
   def this() = this(ActorSystem("AkkaQuickstartSpec"))
 
